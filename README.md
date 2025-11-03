@@ -1,2 +1,2 @@
-# test-repository
-this a second example
+# my very first repo
+the meaning of life is to accept chalenges
